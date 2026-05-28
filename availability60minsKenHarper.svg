@@ -9,7 +9,7 @@
   
   <!-- Primary Appointment Time -->
   <text x="20" y="60" font-family="Arial, sans-serif" font-size="16" fill="#ffffff">
-    📅 Monday 15 June at 10:00 am
+    📅 Monday 1 June at 9:00 am
   </text>
 
   <!-- Secondary Options Header -->
@@ -19,18 +19,21 @@
 
   <!-- Secondary Options List -->
   <text x="20" y="125" font-family="Arial, sans-serif" font-size="15" fill="#d1d5db">
-    📅 Monday 15 June – 1:00 pm, 3:00 pm
+    📅 Monday 1 June – 12:00 pm, 2:00 pm, 4:00 pm
   </text>
   <text x="20" y="150" font-family="Arial, sans-serif" font-size="15" fill="#d1d5db">
-    📅 Tuesday 16 June – 10:00 am, 1:00 pm, 3:00 pm
+    📅 Tuesday 2 June – 9:00 am, 12:00 pm, 2:00 pm, 4:00 pm
   </text>
   <text x="20" y="175" font-family="Arial, sans-serif" font-size="15" fill="#d1d5db">
-    📅 Wednesday 17 June – 9:00 am, 11:00 am, 2:00 pm
+    📅 Wednesday 3 June – 9:00 am, 12:00 pm, 2:00 pm, 5:00 pm
   </text>
   <text x="20" y="200" font-family="Arial, sans-serif" font-size="15" fill="#d1d5db">
-    📅 Thursday 18 June – 10:00 am, 2:00 pm
+    📅 Thursday 4 June – 9:00 am, 12:00 pm
   </text>
   <text x="20" y="225" font-family="Arial, sans-serif" font-size="15" fill="#d1d5db">
-    📅 Friday 19 June – 9:00 am, 12:00 pm
+    📅 Monday 8 June – 9:00 am, 12:00 pm, 2:00 pm, 4:00 pm
+  </text>
+  <text x="20" y="250" font-family="Arial, sans-serif" font-size="15" fill="#d1d5db">
+    📅 Tuesday 9 June – 9:00 am, 12:00 pm, 2:00 pm, 4:00 pm
   </text>
 </svg>
